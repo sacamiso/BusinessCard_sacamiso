@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_surname">Sara Camison</string>
+    <string name="business">Junior Android Developer</string>
+    <string name="phone_number">123456789</string>
+    <string name="email_text">sacamiso@unirioja.es</string>
+    <string name="share_text">sara@android.com</string>
+</resources>
